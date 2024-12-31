@@ -27,10 +27,10 @@ Sometimes you may want to switch to another disease after generating the network
 
 You can change the node color by selecting different features.
 
-1.  Choose a feature.&#x20;
-
-    **Note**: You can hover on the info icon <img src="../.gitbook/assets/1727838586025.png" alt="" data-size="line"> to check the explanation.
+1. Choose a feature.&#x20;
+   * **Note**: You can hover on the info icon <img src="../.gitbook/assets/1727838586025.png" alt="" data-size="line"> to check the explanation.
 2. Select the preferred option for that feature in the dropdown list. You can type the keyword in the search bar to help locate the data name.
+   * **Note**: You can check the [Legends](right-panel.md#legends) section on the [Right panel](right-panel.md) to get the legend of each feature.
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Change node color</p></figcaption></figure>
 
@@ -38,9 +38,8 @@ You can change the node color by selecting different features.
 
 You can change the node size by selecting a feature.&#x20;
 
-1.  Choose a feature.&#x20;
-
-    **Note**: You can hover on the info icon <img src="../.gitbook/assets/1727838586025 (1).png" alt="" data-size="line"> to check the explanation.
+1. Choose a feature.&#x20;
+   * **Note**: You can hover on the info icon <img src="../.gitbook/assets/1727838586025 (1).png" alt="" data-size="line"> to check the explanation.
 2. Select the preferred data for that feature in the dropdown list. You can type the keyword in the search bar to help locate the data name.
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Change node size</p></figcaption></figure>
