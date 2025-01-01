@@ -6,7 +6,11 @@ description: Differential expression in Log2 fold change, value ranging from -In
 
 Differential expression results for disease vs control are calculated based on transcriptomic and Proteomic data and is available from knowledge base in the form of log2-fold change.
 
-There are 2 types of LogFC data available in our tool -- Verge data and AD (Alzheimer’s Disease) data. Let's take the data of PSP disease as an example.
+We have 4 different diseases — PSP, ALS, FTD and OI. Let's go through them one by one.
+
+## PSP
+
+There are 2 types of LogFC data available in our tool -- Verge data and AD (Alzheimer’s Disease) data.&#x20;
 
 * Verge data
 
@@ -26,9 +30,9 @@ The summary of Verge data is listed below:
 | ------- | -------------------------------------- |
 | Verge   | Diagnosis-tissue wise (PSP Vs Control) |
 
-You can use the Verge data to color or resize the nodes in the network. The name in the dropdown list of LogFC Verge data follows the format of **{"LogFC"}\_{disease name}\_{data type}\_{"DEGS"}\_{tissue Abbr.}\_{"log2FoldChange"}**, for example, "LogFC\_PSP\_Verge\_DEGS\_GP\_log2FoldChange", shown as below:
+You can use the Verge data to color or resize the nodes in the network. The name in the dropdown list of LogFC Verge data follows the format of **{disease name}\_{"LogFC"}\_{data type}\_{"DEGS"}\_{tissue Abbr.}\_{"log2FoldChange"}**, for example, "LogFC\_PSP\_Verge\_DEGS\_GP\_log2FoldChange", shown as below:
 
-<figure><img src="../../.gitbook/assets/1733207866996.png" alt=""><figcaption><p>LogFC Verge data naming convention</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1735775213788.png" alt=""><figcaption><p>LogFC Verge data naming convention</p></figcaption></figure>
 
 * AD (Alzheimer’s Disease) data
 
@@ -38,5 +42,17 @@ The summary of AD data is listed below:
 
 <table><thead><tr><th width="129">Brain Bank</th><th width="204">Brain Region</th><th width="203">Contrasts</th><th>Annotation</th></tr></thead><tbody><tr><td>Mayo</td><td>CBE, TCX</td><td>Diagnosis-tissue wise (AD Vs Control)</td><td>ADvsCtrl</td></tr><tr><td>MSBB</td><td>FP, IFG, PHG, PFC, STG</td><td>Diagnosis-tissue wise (AD Vs Control)</td><td>ADvsCtrl</td></tr><tr><td>MSBB</td><td>FP, IFG, PHG, PFC, STG</td><td>Diagnosis-tissue-gender (AD Vs Control)</td><td><p>ADFemalevsCtrlFemale</p><p>ADMalevsCtrlMale</p></td></tr><tr><td>ROSMAP</td><td>DLPFC, PCC,ACC</td><td>Diagnosis-tissue wise (AD Vs Control)</td><td>ADvsCtrl</td></tr><tr><td>ROSMAP</td><td>DLPFC, PCC,ACC</td><td>Diagnosis-tissue-gender-age of death (AD Vs Control)</td><td><p>ADFemalevsCtrlFemale_agedeath</p><p>ADMalevsCtrlMale_agedeath</p></td></tr></tbody></table>
 
-You can use the AD data to color or resize the nodes in the network. The name in the dropdown list of LogFC AD data follows the format of **{"LogFC"}\_{disease name}\_{contrast annotation}\_{brain bank}\_{brain region}**, for example, "logFC\_PSP\_ADvsCtrl\_Mayo\_CBE", shown as below:
+You can use the AD data to color or resize the nodes in the network. The name in the dropdown list of LogFC AD data follows the format of **{disease name}\_{"LogFC"}\_{contrast annotation}\_{brain bank}\_{brain region}**, for example, "logFC\_PSP\_ADvsCtrl\_Mayo\_CBE", shown as below:
+
+<figure><img src="../../.gitbook/assets/1735775251922.png" alt=""><figcaption><p>LogFC AD data naming convention</p></figcaption></figure>
+
+## ALS
+
+
+
+## FTD
+
+
+
+## OI
 
