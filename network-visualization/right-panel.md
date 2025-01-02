@@ -27,7 +27,7 @@ You can change basic parameters of the network, i.e. change the **Node Color**, 
 
 ### Network Analysis
 
-We offer community detection algorithm **Louvain** \[1] in our tool, you can easily use this algorithm to find possible communities in the network, based on your own choice of **Resolution** and **Weighted**.
+We offer community detection algorithm **Louvain** [\[1\]](right-panel.md#citation) in our tool, you can easily use this algorithm to find possible communities in the network, based on your own choice of **Resolution** and **Weighted**.
 
 1. Click Louvain.
 2. Select proper Resolution.
@@ -75,6 +75,8 @@ You can see the Legend of each feature in Node Color section.
 
 Please refer to [Property of Interactions](./#property-of-interactions) for more details.
 
+***
 
+#### Citation 1
 
-_\[1] Traag, V. A., et al. « From Louvain to Leiden: Guaranteeing Well-Connected Communities ». Scientific Reports, vol. 9, no 1, décembre 2019, p. 5233. DOI.org (Crossref), doi:10.1038/s41598-019-41695-z. https://arxiv.org/abs/1810.08473_
+> _\[1] Traag, V. A., et al. « From Louvain to Leiden: Guaranteeing Well-Connected Communities ». Scientific Reports, vol. 9, no 1, décembre 2019, p. 5233. DOI.org (Crossref), doi:10.1038/s41598-019-41695-z. https://arxiv.org/abs/1810.08473_

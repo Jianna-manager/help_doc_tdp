@@ -8,6 +8,4 @@ Druggability scores are derived directly from DrugnomeAI, it estimates the drugg
 
 
 
-
-
-> 1. Arwa et al. DrugnomeAI is an ensemble machine-learning framework for predicting druggability of candidate drug targets. Commun Biol 2022 Nov 24;5:1291. doi: 10.1038/s42003-022-04245-4
+> _\[1] Arwa et al. DrugnomeAI is an ensemble machine-learning framework for predicting druggability of candidate drug targets. Commun Biol 2022 Nov 24;5:1291. doi: 10.1038/s42003-022-04245-4_
