@@ -24,6 +24,6 @@ The naming convention of GDA data in the knowledge base follows the format of **
 
 ## ALS & OI
 
-ALS and OI GDA data are also from Open Targets, but the name convention is slightly different from PSP and FTD data. We use **{disease name}\_{"GDA"}\_{"Score"}\_{"opentargets"}\_{gene-disease association type}** as the format. For example, "ALS\_GDA\_Score\_opentargets\_overall\_association\_score", shown as below:
+ALS and OI GDA data are also from Open Targets, but the name convention is slightly different from PSP and FTD data. We use **{disease name}\_{"GDA"}\_{"Score"}\_{"opentargets"}\_{gene-disease association type}** as the format, for example, "ALS\_GDA\_Score\_opentargets\_overall\_association\_score", shown as below:
 
 <figure><img src="../../.gitbook/assets/1735798272317.png" alt=""><figcaption><p>ALS &#x26; OI GDA data naming convention</p></figcaption></figure>
