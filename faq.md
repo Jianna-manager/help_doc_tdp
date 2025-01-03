@@ -1,6 +1,6 @@
 ---
-description: You can find Frequently Asked Questions here.
 icon: comments-question
+description: Frequently Asked Questions
 ---
 
 # FAQ

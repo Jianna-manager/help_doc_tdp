@@ -1,6 +1,6 @@
 ---
 icon: layer-group
-description: Disease-dependent and disease-independent data
+description: Various data
 ---
 
 # Knowledge Base

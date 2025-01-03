@@ -1,11 +1,11 @@
 ---
-description: Welcome to our Interactive Network Visualization tool!
 icon: flag-checkered
+description: Welcome to our Interactive Network Visualization tool!
 ---
 
 # Overview
 
-### **Getting Started**
+## **Getting Started**
 
 Welcome to the **Getting Started Guide** for Interactive Network Visualization tool! Here you will find all the necessary steps to get started with our platform.
 

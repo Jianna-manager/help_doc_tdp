@@ -4,7 +4,7 @@ description: Odd ratio or Beta-values from population studies, ranging from -1 t
 
 # Genetics
 
-Genetic data in knowledge base is imported from Open Targets portal, and NHGRI GWAS catalog. The data is formatted to map SNPs level statistics to gene-level statistics i.e. odd-ratio or beta-value.
+Genetics data in knowledge base is imported from Open Targets portal, and NHGRI GWAS catalog. The data is formatted to map SNPs level statistics to gene-level statistics i.e. odd-ratio or beta-value.
 
 We have 4 different diseases — PSP, ALS, FTD and OI.
 
