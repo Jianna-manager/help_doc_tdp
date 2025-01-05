@@ -54,7 +54,7 @@ Node color and node size can be both changed at the same time to highlight the c
 
 ### Radial Analysis
 
-You can reduce the network complexity by selecting different radio buttons here.
+You can reduce the network complexity and focus on the key drivers of your network here by selecting different radio buttons.
 
 * **Edge weight cut-off**
 
