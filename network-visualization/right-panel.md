@@ -55,7 +55,7 @@ Similar to Annotation section, after select nodes on the network, you can find t
 
 1. Press "shift" + left mouse button to select nodes on the network, and the selected nodes will be highlighted with black circle.
 2. Click Analysis Details button to obtain the more detailed information of selected nodes.
-3. If needed, Click Export Details button in the GSEA Analysis Results window to export the results.
+3. If needed, click Export Details button in the GSEA Analysis Results window to export the results.
 
 <figure><img src="../.gitbook/assets/1735615241904.png" alt=""><figcaption><p>GSEA</p></figcaption></figure>
 
