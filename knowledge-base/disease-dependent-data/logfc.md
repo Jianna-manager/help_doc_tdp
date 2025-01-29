@@ -50,13 +50,13 @@ You can use the AD data to color or resize the nodes in the network. The name in
 
 The LogFC data of ALS is from [this paper](logfc.md#citation-1) \[1]. According to the paper, to identify how ALS iPSMN changes compare between ALS genetic backgrounds, the effect of each genetic subgroup on gene expression is examined separately, including C9orf72 mutants, SOD1 mutants, FUS mutants,  TARDBP mutants and sporadic iPSMNs (without an identifiable ALS mutation).
 
-You can use the ALS data to color or resize the nodes in the network. The name in the dropdown list of LogFC Verge data follows the format of **{disease name}\_{"LogFC"}\_{"rnaseq"}\_{"PMID37080969."}\_{mutant}\_{"fold\_change"}**, for example, "ALS\_LogFC\_rnaseq\_PMID37080969.tardbp\_fold\_change", shown as below:
+You can use the ALS data to color or resize the nodes in the network. The name in the dropdown list of LogFC data follows the format of **{disease name}\_{"LogFC"}\_{"rnaseq"}\_{"PMID37080969."}\_{mutant}\_{"fold\_change"}**, for example, "ALS\_LogFC\_rnaseq\_PMID37080969.tardbp\_fold\_change", shown as below:
 
 <figure><img src="../../.gitbook/assets/1735797230622.png" alt=""><figcaption><p>ALS LogFC data naming convention</p></figcaption></figure>
 
 ## FTD
 
-
+For LogFC data for FTD, we provide log-fold change between FTD patients vs control in Frontal Cortex Excitatory Neurons.
 
 ## OI
 
