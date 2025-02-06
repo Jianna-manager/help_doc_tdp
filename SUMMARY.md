@@ -19,6 +19,6 @@
     * [Druggability](knowledge-base/disease-independent-data/druggability.md)
     * [Tissue Enrichment](knowledge-base/disease-independent-data/tissue-enrichment.md)
     * [Database](knowledge-base/disease-independent-data/database.md)
-* [Use cases & Help Videos](use-cases-and-help-videos.md)
+* [Use Cases & Help Videos](use-cases-and-help-videos.md)
 * [FAQ](faq.md)
 * [Contact](contact.md)
